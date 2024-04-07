@@ -1,3 +1,11 @@
+# notice
+
+This repository is no longer maintained, there are better ways in reality.
+
+这个仓库不再维护了，有更好的现实方式。
+
+see: https://github.com/kinglisky/comlink-adapters
+
 # rpc-shooter
 
 A tool library for handling window && iframe && worker communication based on the JSON RPC specification
